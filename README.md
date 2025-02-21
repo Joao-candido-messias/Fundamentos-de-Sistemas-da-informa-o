@@ -1,2 +1,2 @@
-# Fundamentos-de-Sistemas-da-informa-o
+# Fundamentos-de-Sistemas-da-informação
 Vocabulário e mapas mentais.
