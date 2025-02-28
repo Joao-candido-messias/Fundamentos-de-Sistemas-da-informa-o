@@ -15,4 +15,5 @@ Glossáro:
 
 Boas práticas:
 
-- Iniciar os arquivos ocultos com .  ---- Exemplo: .gitignore
+- Iniciar os arquivos ocultos com  ' . ' 
+  Exemplo: .gitignore
