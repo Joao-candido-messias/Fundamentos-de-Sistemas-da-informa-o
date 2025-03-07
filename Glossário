@@ -1,18 +1,73 @@
 Glossáro:
 
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Resumos:
+
+  Sistemas de Informação: 
+    
+    Conjunto organizado de componentes que coleta processa armazena e distribui informações.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
+    Para que servem?
+      Um sistema de informação serve para coletar, processar, armazenar e distribuir dados, transformando-os em informações úteis para apoiar a tomada de decisões e otimizar processos dentro de uma organização.
+    
+    Tipos de Sistemas de Informação:
+
+    ## Sistemas de Processamento de transações:
+         Função: Automatizar tarefas e processamentos, como registros de vendas, controle de inventário, ou processamento de pedidos.
+         Exemplo: Sistemas de Caixa.
+
+    ## Sistema de Informação Gerencial:
+         Função: Processam dados de transações para gerar relatórios periódicos e resumos de desempenho, como relatórios financeiros.
+         Exemplo: Relatório semanal gerado por sistema.
+
+    ## Sistemas de Apoio à Decisão:
+         Função: Fornecer informações detalhadas e modelos analíticos para ajudar os gestores a tomar decisões estratégicas.
+         Exemplo: Software de previsão de demanda.
+
+    ## Sistemas de Informação Executiva:
+         Função: Auxiliar na tomada de decisões ao nível estratégico, fornecendo uma visão consolidada sobre as operações da empresa.
+         Exemplo: Dashboard executivo.
+
+    ## Sistemas de Automação de Escritório:
+         Função: Facilitar as atividades administrativas e de comunicação, como o processamento de texto, e-mails e calendários.
+         Exemplo: Microsoft Office.
+
+    ## Sistemas de Planejamento de Recursos Empresariais:
+         Função: Integrar os processos de negócios essenciais (financeiro, RH, produção, inventário) em um único sistema.
+         Exemplo: SAP, Oracle ERP, Microsoft Dynamics.
+
+    ## Sistemas de Gestão do Conhecimento:
+         Função: Gerenciar o conhecimento, facilitando a criação, compartilhamento e armazenamento do conhecimento.
+         Exemplo: Intranet corporativa.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  Integração de Sistemas:
+
+    A integração de sistemas de informação permite a comunicação entre os diferentes sistemas, otimizando a eficiência e produtividade da organização.
+        
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  Formas de integração de Sistemas:
+
+## Integração de dados:
+     Integração de dados envolve a coleta e a consolidação de dados provenientes de diferentes fontes em um único repositório (ex: Data Warehouses, Bancos de Dados Integrados).
+
+## Integração de Aplicações:
+     Consiste na interconexão de diferentes sistemas e softwares empresariais (como ERP, CRM e sistemas financeiros) para que possam se comunicar entre si de forma automatizada.
+
+## Integração por APIs:
+     As APIs são usadas para permitir que diferentes sistemas "conversem" entre si. Elas oferecem um meio de enviar e receber dados entre sistemas distintos, permitindo a integração de serviços e funcionalidades.
+
+## Integração de Processos:
+     A integração de processos alinha e automatiza fluxos de trabalho entre sistemas, garantindo execução sequencial e eficiente.
 
 
 
-
-
-
-
-
-
-
-
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Boas práticas:
 
 - Iniciar os arquivos ocultos com  ' . ' 
