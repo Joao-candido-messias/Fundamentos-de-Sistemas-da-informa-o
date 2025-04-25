@@ -12,12 +12,29 @@ toda parte e podem ser acessados a qualquer momento.
 Ex: Um smartphone que permite ao usuário acessar informações em tempo real, como navegação, notícias, mensagens, independentemente de sua localização.
 
 SAAS:
+Software como Serviço. Você acessa aplicações prontas pela internet, sem se preocupar com instalação, manutenção ou infraestrutura.
+Ex: Gmail, Google Docs, Salesforce.
 
 PAAS:
+Plataforma como Serviço. Oferece um ambiente completo para desenvolvimento, testes e implantação de aplicações. A infraestrutura e a gestão do sistema são feitas pelo provedor.
+Ex: Heroku, Google App Engine.
 
 IAAS:
+Infraestrutura como Serviço. Você contrata recursos como servidores, redes e armazenamento, e monta seu ambiente conforme a necessidade. A manutenção do sistema é sua responsabilidade.
+Ex: Amazon EC2, Microsoft Azure.
 
-(pesquisar sobre todos os outras aas)
+CRM:
+Um CRM é um sistema que ajuda empresas a organizar e acompanhar o relacionamento com clientes — desde o primeiro contato até depois da venda.
+Ele melhora o controle de vendas, o atendimento e o marketing.
+
+Imagine uma barbearia que começou a usar um CRM.
+
+Quando um cliente novo agenda um corte, o CRM registra o nome, telefone e a data do atendimento.
+Depois do corte, o sistema envia automaticamente uma mensagem agradecendo e perguntando se ele gostou.
+Passadas 4 semanas, o CRM manda um lembrete sugerindo agendar outro corte.
+O dono da barbearia consegue ver quais clientes vêm sempre e quais pararam de vir, e pode criar promoções personalizadas pra trazê-los de volta.
+Resultado: o dono economiza tempo, fideliza mais clientes e vende mais sem precisar lembrar de tudo sozinho.
+
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
