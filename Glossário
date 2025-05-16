@@ -35,6 +35,42 @@ Passadas 4 semanas, o CRM manda um lembrete sugerindo agendar outro corte.
 O dono da barbearia consegue ver quais clientes vêm sempre e quais pararam de vir, e pode criar promoções personalizadas pra trazê-los de volta.
 Resultado: o dono economiza tempo, fideliza mais clientes e vende mais sem precisar lembrar de tudo sozinho.
 
+ERP:
+Um ERP (Planejamento de Recursos Empresariais) é um sistema que integra e organiza todas as áreas de uma empresa — como vendas, estoque, financeiro, RH e produção — em um único lugar.
+
+Ele evita retrabalho, melhora o controle e ajuda na tomada de decisões com base em dados atualizados.
+
+Imagine uma pequena fábrica que começa a usar um ERP.
+
+Quando um vendedor fecha um pedido, o ERP já avisa o setor de produção para fabricar os itens.
+O sistema atualiza o estoque automaticamente e envia os dados para o financeiro gerar a nota fiscal.
+Se faltar matéria-prima, o ERP dispara um alerta para o setor de compras.
+No final do mês, o dono da fábrica pode ver relatórios de vendas, custos e lucros com apenas alguns cliques.
+
+Resultado: menos erros, mais produtividade e uma visão completa da empresa em tempo real — sem precisar juntar planilhas de vários setores.
+
+Criptografia:
+É uma tecnologia que protege informações, tornando-as ilegíveis para quem não tem permissão. Ela transforma dados comuns em códigos secretos, que só podem ser lidos por quem tem a chave certa.
+
+É muito usada para proteger mensagens, senhas, dados bancários e qualquer informação sensível.
+
+Imagine uma loja online que usa criptografia.
+
+Quando um cliente faz uma compra, os dados do cartão dele são criptografados antes de serem enviados. Assim, mesmo que alguém intercepte a informação, só verá um monte de números sem sentido.
+Quando os dados chegam ao servidor da loja, são descriptografados com uma chave e processados com segurança.
+
+Existem dois tipos principais de chave:
+
+Chave simétrica: usa a mesma chave para criptografar e descriptografar. Rápida, mas precisa que os dois lados compartilhem a chave com segurança.
+
+Chave assimétrica: usa duas chaves diferentes — uma pública (para criptografar) e uma privada (para descriptografar). Mais segura para comunicações entre desconhecidos.
+
+Resultado: a loja protege os dados dos clientes, evita fraudes e cria confiança — tudo isso sem que o cliente perceba que algo está acontecendo nos bastidores.
+
+
+
+
+
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
